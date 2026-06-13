@@ -1,4 +1,4 @@
-# MI_Wavelet_analysis — Code Repository
+# MI_Wavelet_analysis: Code Repository
 
 This repository contains the raw data and codes used to produce the results presented in the paper entitled: *"Scale-Dependent Controls of Nighttime Net Ecosystem Exchange in Sub-Humid West African Ecosystems"*, currently submitted to the journal: *JGR Biogeosciences*.
 
