@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Koukoui "
+  given-names: "Djidjoho Renaud Roméo"
+  orcid: "https://orcid.org/0000-0001-7453-5428"
+- family-names: "Houénou"
+  given-names: "Franck Djideme"
+  orcid: "https://orcid.org/0000-0002-0065-3576"
+- family-names: "Mamadou"
+  given-names: "Ossénatou"
+  orcid: "https://orcid.org/0000-0002-2774-6000"
+- family-names: "Bousso"
+  given-names: "Mamadou"
+- family-names: "Hounsinou"
+  given-names: "Miriam"
+  orcid: "https://orcid.org/0000-0002-4557-9189"
+- family-names: "Alotse"
+  given-names: "Yaulande Douanla"
+  orcid: "https://orcid.org/0000-0001-7232-431X"
+- family-names: "Heinesch"
+  given-names: "Bernard"
+  orcid: "https://orcid.org/0000-0001-7594-6341"
+- family-names: "Cohard"
+  given-names: "Jean-Martial"
+  orcid: "https://orcid.org/0000-0001-8418-8888"
+title: "Scale-Dependent Controls of Nighttime Net Ecosystem Exchange in Sub-Humid West African Ecosystems (Support files)"
+version: 0.1.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-06-13
+url: "10.5281/zenodo.20677699"
