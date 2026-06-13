@@ -52,5 +52,6 @@ For the wavelet transform analysis, the codes used source codes shared by Grinst
 ---
 
 ## Contact
+Corresponding authors:  
+D. Renaud Roméo Koukoui  (romeo.koukoui@imsp-uac.org) and Ossénatou Mamadou (ossenatou.mamadou@imsp-uac.org)
 
-[ ]
